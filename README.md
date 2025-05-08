@@ -1,2 +1,1 @@
-# grayarea
 # custom-wordpress

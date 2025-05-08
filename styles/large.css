@@ -1,0 +1,54 @@
+body {
+  font-size: 28px;
+}
+
+.site-title {
+  margin: 18px 0 32px 30px;
+}
+
+.site-subtitle {
+  margin: 0;
+  padding: 0 0 18px;
+}
+
+.site-description {
+  border-radius: 20px;
+  font-size: 0.65em;
+  outline: 1px solid var(--color-black);
+  padding: 4px 16px;
+  position: absolute;
+  right: 5%;
+  text-align: center;
+  width: 37ch;
+}
+
+#site-description-label {
+  display: block;
+  margin: 0 auto;
+}
+
+#site-description-marquee {
+  display: none;
+}
+
+.header-link {
+  border: none;
+  display: flex;
+  position: absolute;
+  right: 10%;
+  top: 148px;
+  width: auto;
+  z-index: 0;
+}
+
+.ga-button-link {
+  border-radius: 0 0 15px 15px;
+  font-size: 0.66em;
+  outline: 1px solid var(--color-black);
+  padding: 6px 12px;
+  width: auto;
+}
+
+#silhouette {
+  bottom: 0;
+}

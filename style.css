@@ -1,0 +1,21 @@
+/*
+Theme Name: CustomThemeName
+Theme URI: https://...
+Author: AuthorName
+Author URI: https://AuthorWebsite.com
+Description:
+Version: 0.0.1
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: CustomThemeName
+Tags: custom-theme
+*/
+
+@import url(styles/small.css) (min-width: 0px);
+@import url(styles/medium.css) (min-width: 480px);
+@import url(styles/large.css) (min-width: 960px);
+
+html {
+  display: block;
+  width: 100%;
+}
